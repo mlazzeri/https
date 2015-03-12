@@ -38,7 +38,7 @@ These changed expectations improve the security of HTTPS on every website. In ot
 
 ### HTTPS is the internet's next phase
 
-The internet's standards bodies, web browsers, major tech companies, and the internet community of practice have all come to understand that HTTPS should be the baseline for all web traffic.
+Internet standards bodies, web browsers, major tech companies, and the internet community of practice have all come to understand that HTTPS should be the baseline for all web traffic.
 
 * The W3C's Technical Architecture Group has found that [the web should actively prefer secure connections](https://w3ctag.github.io/web-https/) and transition entirely to HTTPS.
 * The IETF has said that [pervasive monitoring is an attack](https://datatracker.ietf.org/doc/rfc7258/), and the Internet Architecture Board (the IETF's parent organization) recommends that [new protocols use encryption by default](http://www.internetsociety.org/news/internet-society-commends-internet-architecture-board-recommendation-encryption-default).
@@ -48,4 +48,4 @@ Ultimately, the internet's goal is to establish encryption as the norm, and to p
 
 Investing in HTTPS makes it faster, cheaper, and easier for everyone. Many of the advancements of the last several years have come from major institutions and technology companies committing to migrate, improving the status quo, and contributing their improvements back to the public.
 
-The more US government websites and services that join the transition to an encrypted internet, the smoother and faster it will be.
+The more US government websites and services that join the transition to an encrypted internet, the smoother and faster it will be. An HTTPS-only standard will provide the public with a consistent, private browsing experience and position the Federal government as a leader in Internet security.
